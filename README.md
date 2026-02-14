@@ -33,3 +33,19 @@ pip install -r requirements.txt
 
 # Запуск приложения
 python budget_calculator.py
+```
+
+### Вариант 2: Упрощенная версия (только стандартные библиотеки)
+
+
+```bash
+# Клонирование репозитория
+git clone https://github.com/yourusername/personal-budget-tracker.git
+cd personal-budget-tracker
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Запуск приложения
+python budget_calculator_simple.py
+```
